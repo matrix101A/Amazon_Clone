@@ -1,4 +1,4 @@
-import React, { createContext, useContext, usReducer, useReducer } from "react";
+import React, { createContext, useContext, useReducer } from "react";
 // prepared the dataLayer
 export const StateContext = createContext();
 //Wrap our app and provide datalayer to every conponent
